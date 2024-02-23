@@ -1,0 +1,33 @@
+{
+  "name": "fake-user-wallet",
+  "version": "1.0.0",
+  "description": "Generate fake users and wallet",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridfac/fake-user-wallet.git"
+  },
+  "author": "faridfac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faridfac/fake-user-wallet/issues"
+  },
+  "homepage": "https://github.com/faridfac/fake-user-wallet#readme",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.32.2",
+    "@cosmjs/proto-signing": "^0.32.2",
+    "@mysten/sui.js": "^0.37.1",
+    "@scure/bip39": "^1.2.2",
+    "@solana/web3.js": "^1.87.6",
+    "aptos": "^1.21.0",
+    "bs58": "^5.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "ethers": "^5.7.2",
+    "node-fetch": "^2.6.0",
+    "uuid": "^9.0.0"
+  }
+}
