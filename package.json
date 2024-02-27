@@ -1,6 +1,6 @@
 {
   "name": "fake-user-wallet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate fake users and wallet",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faridfac/fake-user-wallet.git"
+    "url": "https://github.com/faridfac/fake-user-wallet.git"
   },
   "author": "faridfac",
   "license": "MIT",
