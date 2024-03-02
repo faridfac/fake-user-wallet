@@ -1,6 +1,6 @@
 {
   "name": "fake-user-wallet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate fake users and wallet",
   "main": "src/index.js",
   "scripts": {
