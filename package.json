@@ -1,7 +1,7 @@
 {
   "name": "fake-user-wallet",
-  "version": "1.0.2",
-  "description": "Generate fake users and wallet",
+  "version": "1.0.3",
+  "description": "Generate fake users and create wallet",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
